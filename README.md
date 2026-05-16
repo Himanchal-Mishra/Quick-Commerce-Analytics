@@ -610,7 +610,7 @@ making it highly valuable for roles such as:
 
 #  Author
 
-## Himanchal (Shashank)
+## Himanchal mishra
 Engineering Student | Aspiring Data Analyst & ML Enthusiast
 
 ---
